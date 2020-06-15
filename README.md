@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 
 Hello, welcome to Hangman!
 
